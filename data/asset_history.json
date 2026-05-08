@@ -1,0 +1,574 @@
+{
+  "updated_at_kst": "2026-05-08 09:54:38",
+  "source": "Google Sheets 자산 관리",
+  "count": 63,
+  "history": [
+    {
+      "date": "2026-03-05 8:54",
+      "fixed_cash": 356590000,
+      "variable_cash": 5112237,
+      "us_stock": 108049149,
+      "pension": 65987945,
+      "kr_stock": 6888000,
+      "total_asset": 542627331
+    },
+    {
+      "date": "2026-03-06 8:54",
+      "fixed_cash": 356590000,
+      "variable_cash": 5112237,
+      "us_stock": 106392459,
+      "pension": 68440635,
+      "kr_stock": 7664000,
+      "total_asset": 544199331
+    },
+    {
+      "date": "2026-03-07 8:54",
+      "fixed_cash": 356590000,
+      "variable_cash": 5112237,
+      "us_stock": 106213667,
+      "pension": 68365215,
+      "kr_stock": 7528000,
+      "total_asset": 543809119
+    },
+    {
+      "date": "2026-03-08 8:54",
+      "fixed_cash": 356590000,
+      "variable_cash": 5112237,
+      "us_stock": 106213667,
+      "pension": 68365215,
+      "kr_stock": 7528000,
+      "total_asset": 543809119
+    },
+    {
+      "date": "2026-03-09 8:54",
+      "fixed_cash": 356590000,
+      "variable_cash": 5112237,
+      "us_stock": 106213667,
+      "pension": 68365215,
+      "kr_stock": 7528000,
+      "total_asset": 543809119
+    },
+    {
+      "date": "2026-03-10 8:54",
+      "fixed_cash": 356590000,
+      "variable_cash": 5112237,
+      "us_stock": 108079767,
+      "pension": 66274195,
+      "kr_stock": 6940000,
+      "total_asset": 542996199
+    },
+    {
+      "date": "2026-03-11 8:54",
+      "fixed_cash": 356590000,
+      "variable_cash": 5112237,
+      "us_stock": 108700743,
+      "pension": 68127035,
+      "kr_stock": 7516000,
+      "total_asset": 546046015
+    },
+    {
+      "date": "2026-03-12 8:54",
+      "fixed_cash": 356590000,
+      "variable_cash": 5112237,
+      "us_stock": 109970070,
+      "pension": 68851170,
+      "kr_stock": 7600000,
+      "total_asset": 548123477
+    },
+    {
+      "date": "2026-03-13 8:54",
+      "fixed_cash": 356590000,
+      "variable_cash": 5112237,
+      "us_stock": 105950846,
+      "pension": 68637925,
+      "kr_stock": 7516000,
+      "total_asset": 543807008
+    },
+    {
+      "date": "2026-03-14 8:54",
+      "fixed_cash": 356590000,
+      "variable_cash": 5112237,
+      "us_stock": 107263740,
+      "pension": 68265630,
+      "kr_stock": 7340000,
+      "total_asset": 544571607
+    },
+    {
+      "date": "2026-03-15 8:54",
+      "fixed_cash": 356590000,
+      "variable_cash": 5112237,
+      "us_stock": 107256602,
+      "pension": 68265630,
+      "kr_stock": 7340000,
+      "total_asset": 544564469
+    },
+    {
+      "date": "2026-03-16 8:54",
+      "fixed_cash": 356590000,
+      "variable_cash": 5112237,
+      "us_stock": 107256602,
+      "pension": 68265630,
+      "kr_stock": 7340000,
+      "total_asset": 544564469
+    },
+    {
+      "date": "2026-03-17 8:54",
+      "fixed_cash": 356590000,
+      "variable_cash": 5112237,
+      "us_stock": 109078160,
+      "pension": 68335085,
+      "kr_stock": 7548000,
+      "total_asset": 546663482
+    },
+    {
+      "date": "2026-03-18 8:54",
+      "fixed_cash": 356590000,
+      "variable_cash": 5112237,
+      "us_stock": 109165761,
+      "pension": 68548300,
+      "kr_stock": 7756000,
+      "total_asset": 547172298
+    },
+    {
+      "date": "2026-03-19 8:54",
+      "fixed_cash": 356590000,
+      "variable_cash": 5112237,
+      "us_stock": 108244347,
+      "pension": 69702670,
+      "kr_stock": 8340000,
+      "total_asset": 547989254
+    },
+    {
+      "date": "2026-03-20 8:54",
+      "fixed_cash": 356590000,
+      "variable_cash": 5112237,
+      "us_stock": 106437552,
+      "pension": 68448205,
+      "kr_stock": 8020000,
+      "total_asset": 544607994
+    },
+    {
+      "date": "2026-03-21 8:54",
+      "fixed_cash": 356590000,
+      "variable_cash": 5112237,
+      "us_stock": 103475431,
+      "pension": 68420995,
+      "kr_stock": 7976000,
+      "total_asset": 541574663
+    },
+    {
+      "date": "2026-03-22 8:54",
+      "fixed_cash": 356590000,
+      "variable_cash": 5112237,
+      "us_stock": 103475431,
+      "pension": 68420995,
+      "kr_stock": 7976000,
+      "total_asset": 541574663
+    },
+    {
+      "date": "2026-03-23 8:54",
+      "fixed_cash": 356590000,
+      "variable_cash": 5112237,
+      "us_stock": 103475431,
+      "pension": 68420995,
+      "kr_stock": 7976000,
+      "total_asset": 541574663
+    },
+    {
+      "date": "2026-03-24 8:54",
+      "fixed_cash": 356590000,
+      "variable_cash": 5112237,
+      "us_stock": 104816077,
+      "pension": 65430295,
+      "kr_stock": 7452000,
+      "total_asset": 539400609
+    },
+    {
+      "date": "2026-03-25 8:54",
+      "fixed_cash": 356590000,
+      "variable_cash": 5112237,
+      "us_stock": 105229873,
+      "pension": 66442710,
+      "kr_stock": 7588000,
+      "total_asset": 540962820
+    },
+    {
+      "date": "2026-03-26 8:54",
+      "fixed_cash": 356590000,
+      "variable_cash": 5112237,
+      "us_stock": 106798108,
+      "pension": 68105320,
+      "kr_stock": 7560000,
+      "total_asset": 544165665
+    },
+    {
+      "date": "2026-03-27 8:54",
+      "fixed_cash": 356590000,
+      "variable_cash": 5112237,
+      "us_stock": 102879170,
+      "pension": 67366515,
+      "kr_stock": 7204000,
+      "total_asset": 539151922
+    },
+    {
+      "date": "2026-03-28 8:54",
+      "fixed_cash": 356590000,
+      "variable_cash": 5112237,
+      "us_stock": 103936065,
+      "pension": 67063805,
+      "kr_stock": 7188000,
+      "total_asset": 539890107
+    },
+    {
+      "date": "2026-03-29 8:54",
+      "fixed_cash": 356590000,
+      "variable_cash": 5112237,
+      "us_stock": 103964323,
+      "pension": 67063805,
+      "kr_stock": 7188000,
+      "total_asset": 539918365
+    },
+    {
+      "date": "2026-03-30 8:54",
+      "fixed_cash": 356590000,
+      "variable_cash": 5112237,
+      "us_stock": 103937443,
+      "pension": 67063805,
+      "kr_stock": 7188000,
+      "total_asset": 539891485
+    },
+    {
+      "date": "2026-03-31 8:54",
+      "fixed_cash": 356590000,
+      "variable_cash": 5112237,
+      "us_stock": 103041300,
+      "pension": 66442175,
+      "kr_stock": 7052000,
+      "total_asset": 538237712
+    },
+    {
+      "date": "2026-04-01 8:54",
+      "fixed_cash": 356590000,
+      "variable_cash": 5112237,
+      "us_stock": 106630626,
+      "pension": 65565685,
+      "kr_stock": 6688000,
+      "total_asset": 540586548
+    },
+    {
+      "date": "2026-04-03 8:54",
+      "fixed_cash": 356590000,
+      "variable_cash": 5112237,
+      "us_stock": 107548294,
+      "pension": 66941310,
+      "kr_stock": 7136000,
+      "total_asset": 543327841
+    },
+    {
+      "date": "2026-04-05 8:54",
+      "fixed_cash": 356590000,
+      "variable_cash": 5112237,
+      "us_stock": 107622356,
+      "pension": 67854755,
+      "kr_stock": 7448000,
+      "total_asset": 544627348
+    },
+    {
+      "date": "2026-04-06 8:54",
+      "fixed_cash": 356590000,
+      "variable_cash": 5112237,
+      "us_stock": 107551142,
+      "pension": 67854755,
+      "kr_stock": 7448000,
+      "total_asset": 544556134
+    },
+    {
+      "date": "2026-04-07 8:54",
+      "fixed_cash": 356590000,
+      "variable_cash": 5112237,
+      "us_stock": 108046787,
+      "pension": 68168005,
+      "kr_stock": 7724000,
+      "total_asset": 545641029
+    },
+    {
+      "date": "2026-04-08 8:54",
+      "fixed_cash": 356590000,
+      "variable_cash": 5112237,
+      "us_stock": 108396199,
+      "pension": 68353005,
+      "kr_stock": 7860000,
+      "total_asset": 546311441
+    },
+    {
+      "date": "2026-04-09 8:54",
+      "fixed_cash": 356590000,
+      "variable_cash": 5112237,
+      "us_stock": 111390508,
+      "pension": 70790545,
+      "kr_stock": 8420000,
+      "total_asset": 552303290
+    },
+    {
+      "date": "2026-04-10 8:54",
+      "fixed_cash": 356590000,
+      "variable_cash": 5112237,
+      "us_stock": 111102622,
+      "pension": 70705070,
+      "kr_stock": 8160000,
+      "total_asset": 551669929
+    },
+    {
+      "date": "2026-04-12 7:22",
+      "fixed_cash": 356590000,
+      "variable_cash": 5112237,
+      "us_stock": 112527125,
+      "pension": 71671600,
+      "kr_stock": 8240000,
+      "total_asset": 554140962
+    },
+    {
+      "date": "2026-04-12 8:54",
+      "fixed_cash": 356590000,
+      "variable_cash": 5112237,
+      "us_stock": 112527125,
+      "pension": 71671600,
+      "kr_stock": 8240000,
+      "total_asset": 554140962
+    },
+    {
+      "date": "2026-04-13 8:54",
+      "fixed_cash": 356590000,
+      "variable_cash": 5112237,
+      "us_stock": 112421766,
+      "pension": 71671600,
+      "kr_stock": 8240000,
+      "total_asset": 554035603
+    },
+    {
+      "date": "2026-04-14 8:54",
+      "fixed_cash": 356590000,
+      "variable_cash": 5112237,
+      "us_stock": 113921049,
+      "pension": 71893830,
+      "kr_stock": 8040000,
+      "total_asset": 555557116
+    },
+    {
+      "date": "2026-04-15 8:54",
+      "fixed_cash": 356590000,
+      "variable_cash": 5112237,
+      "us_stock": 114775164,
+      "pension": 73188370,
+      "kr_stock": 8260000,
+      "total_asset": 557925771
+    },
+    {
+      "date": "2026-04-16 8:54",
+      "fixed_cash": 356590000,
+      "variable_cash": 5112237,
+      "us_stock": 114377429,
+      "pension": 73892830,
+      "kr_stock": 8440000,
+      "total_asset": 558412496
+    },
+    {
+      "date": "2026-04-17 8:54",
+      "fixed_cash": 356590000,
+      "variable_cash": 5112237,
+      "us_stock": 116778392,
+      "pension": 74948490,
+      "kr_stock": 8700000,
+      "total_asset": 562129119
+    },
+    {
+      "date": "2026-04-18 8:54",
+      "fixed_cash": 456590000,
+      "variable_cash": 5787384,
+      "us_stock": 117203117,
+      "pension": 75890668,
+      "kr_stock": 8640000,
+      "total_asset": 664111169
+    },
+    {
+      "date": "2026-04-19 8:54",
+      "fixed_cash": 456590000,
+      "variable_cash": 5787384,
+      "us_stock": 117203117,
+      "pension": 75890668,
+      "kr_stock": 8640000,
+      "total_asset": 664111169
+    },
+    {
+      "date": "2026-04-20 8:54",
+      "fixed_cash": 456590000,
+      "variable_cash": 5787384,
+      "us_stock": 117132014,
+      "pension": 75890668,
+      "kr_stock": 8640000,
+      "total_asset": 664040066
+    },
+    {
+      "date": "2026-04-21 21:03",
+      "fixed_cash": 456590000,
+      "variable_cash": 5787384,
+      "us_stock": 116819174,
+      "pension": 77086058,
+      "kr_stock": 8760000,
+      "total_asset": 665042616
+    },
+    {
+      "date": "2026-04-22 8:54",
+      "fixed_cash": 456590000,
+      "variable_cash": 5787384,
+      "us_stock": 117919030,
+      "pension": 77086058,
+      "kr_stock": 8760000,
+      "total_asset": 666142472
+    },
+    {
+      "date": "2026-04-23 10:14",
+      "fixed_cash": 456590000,
+      "variable_cash": 5787384,
+      "us_stock": 120927852,
+      "pension": 78266228,
+      "kr_stock": 9090000,
+      "total_asset": 670661464
+    },
+    {
+      "date": "2026-04-24 8:14",
+      "fixed_cash": 456590000,
+      "variable_cash": 5787384,
+      "us_stock": 119392604,
+      "pension": 77752633,
+      "kr_stock": 8980000,
+      "total_asset": 668502621
+    },
+    {
+      "date": "2026-04-25 8:14",
+      "fixed_cash": 456590000,
+      "variable_cash": 5787384,
+      "us_stock": 122080060,
+      "pension": 78384598,
+      "kr_stock": 8780000,
+      "total_asset": 671622042
+    },
+    {
+      "date": "2026-04-26 8:14",
+      "fixed_cash": 456590000,
+      "variable_cash": 5787384,
+      "us_stock": 122085080,
+      "pension": 78384598,
+      "kr_stock": 8780000,
+      "total_asset": 671627062
+    },
+    {
+      "date": "2026-04-27 8:14",
+      "fixed_cash": 456590000,
+      "variable_cash": 5787384,
+      "us_stock": 122085080,
+      "pension": 78384598,
+      "kr_stock": 8780000,
+      "total_asset": 671627062
+    },
+    {
+      "date": "2026-04-28 8:14",
+      "fixed_cash": 456590000,
+      "variable_cash": 5787384,
+      "us_stock": 122747881,
+      "pension": 79527203,
+      "kr_stock": 8980000,
+      "total_asset": 673632468
+    },
+    {
+      "date": "2026-04-29 8:14",
+      "fixed_cash": 456590000,
+      "variable_cash": 5787384,
+      "us_stock": 121101536,
+      "pension": 79139083,
+      "kr_stock": 8880000,
+      "total_asset": 671498003
+    },
+    {
+      "date": "2026-04-30 8:14",
+      "fixed_cash": 456590000,
+      "variable_cash": 5787384,
+      "us_stock": 123891159,
+      "pension": 78801763,
+      "kr_stock": 9040000,
+      "total_asset": 674110306
+    },
+    {
+      "date": "2026-05-01 8:14",
+      "fixed_cash": 456590000,
+      "variable_cash": 5787384,
+      "us_stock": 126242099,
+      "pension": 78852048,
+      "kr_stock": 8820000,
+      "total_asset": 676291531
+    },
+    {
+      "date": "2026-05-02 8:14",
+      "fixed_cash": 456590000,
+      "variable_cash": 5787384,
+      "us_stock": 125798963,
+      "pension": 78852048,
+      "kr_stock": 8820000,
+      "total_asset": 675848395
+    },
+    {
+      "date": "2026-05-03 8:14",
+      "fixed_cash": 456590000,
+      "variable_cash": 5787384,
+      "us_stock": 126005020,
+      "pension": 78852048,
+      "kr_stock": 8820000,
+      "total_asset": 676054452
+    },
+    {
+      "date": "2026-05-04 8:14",
+      "fixed_cash": 456590000,
+      "variable_cash": 5787384,
+      "us_stock": 126005020,
+      "pension": 78852048,
+      "kr_stock": 8820000,
+      "total_asset": 676054452
+    },
+    {
+      "date": "2026-05-05 8:14",
+      "fixed_cash": 456590000,
+      "variable_cash": 5787384,
+      "us_stock": 126337241,
+      "pension": 81715234,
+      "kr_stock": 9300000,
+      "total_asset": 679729859
+    },
+    {
+      "date": "2026-05-06 8:14",
+      "fixed_cash": 456590000,
+      "variable_cash": 5787384,
+      "us_stock": 129297132,
+      "pension": 81715234,
+      "kr_stock": 9300000,
+      "total_asset": 682689750
+    },
+    {
+      "date": "2026-05-07 9:10",
+      "fixed_cash": 456590000,
+      "variable_cash": 5787384,
+      "us_stock": 128832227,
+      "pension": 85034004,
+      "kr_stock": 10640000,
+      "total_asset": 686883615
+    },
+    {
+      "date": "2026-05-08 8:14",
+      "fixed_cash": 456590000,
+      "variable_cash": 5787384,
+      "us_stock": 126548478,
+      "pension": 86562779,
+      "kr_stock": 10860000,
+      "total_asset": 686348641
+    }
+  ]
+}
