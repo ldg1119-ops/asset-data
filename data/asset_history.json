@@ -1,7 +1,7 @@
 {
-  "updated_at_kst": "2026-05-10 08:06:45",
+  "updated_at_kst": "2026-05-11 08:06:44",
   "source": "Google Sheets 자산 관리",
-  "count": 65,
+  "count": 66,
   "history": [
     {
       "date": "2026-03-05 8:54",
@@ -587,6 +587,15 @@
       "pension": 86560704,
       "kr_stock": 10740000,
       "total_asset": 690336749
+    },
+    {
+      "date": "2026-05-11 7:23",
+      "fixed_cash": 456590000,
+      "variable_cash": 5787384,
+      "us_stock": 130648830,
+      "pension": 86560704,
+      "kr_stock": 10740000,
+      "total_asset": 690326918
     }
   ]
 }
