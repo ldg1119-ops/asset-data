@@ -1,16 +1,7 @@
 {
-  "updated_at_kst": "2026-05-13 08:06:45",
+  "updated_at_kst": "2026-05-14 08:06:45",
   "source": "Google Sheets 자산 관리",
   "previous": {
-    "date": "2026-05-12 7:23",
-    "fixed_cash": 456590000,
-    "variable_cash": 5787384,
-    "us_stock": 134169445,
-    "pension": 88565224,
-    "kr_stock": 11420000,
-    "total_asset": 696532053
-  },
-  "latest": {
     "date": "2026-05-13 7:23",
     "fixed_cash": 456590000,
     "variable_cash": 5787384,
@@ -19,14 +10,23 @@
     "kr_stock": 11160000,
     "total_asset": 692052191
   },
+  "latest": {
+    "date": "2026-05-14 7:23",
+    "fixed_cash": 456590000,
+    "variable_cash": 5787384,
+    "us_stock": 133739565,
+    "pension": 88496664,
+    "kr_stock": 11360000,
+    "total_asset": 695973613
+  },
   "diff": {
     "fixed_cash": 0,
     "variable_cash": 0,
-    "us_stock": -2858537,
-    "pension": -1361325,
-    "kr_stock": -260000,
-    "total_asset": -4479862,
-    "total_asset_rate": -0.006431666684548087
+    "us_stock": 2428657,
+    "pension": 1292765,
+    "kr_stock": 200000,
+    "total_asset": 3921422,
+    "total_asset_rate": 0.005666367437307862
   },
   "us_holdings": [
     {
